@@ -8,8 +8,8 @@ from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder,StandardScaler
 
-from src.exception import CustomException
-from src.logger import logging
+from src.mlproject.exception import CustomException
+from src.mlproject.logger import logging
 import os
 
 
