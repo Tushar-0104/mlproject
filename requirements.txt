@@ -5,4 +5,7 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+mysql-connector-python
+python-dotenv
+pymysql
 # -e .

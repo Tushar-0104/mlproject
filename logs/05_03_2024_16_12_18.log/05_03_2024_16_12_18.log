@@ -1,0 +1,6 @@
+[2024-05-03 16:12:19,623] 11 root - INFO - The execution has started
+[2024-05-03 16:12:19,623] 21 root - INFO - Entered the data ingestion method or components
+[2024-05-03 16:12:19,624] 24 root - INFO - Read the dataset as dataframe
+[2024-05-03 16:12:19,626] 30 root - INFO - Train test split initiated
+[2024-05-03 16:12:19,629] 37 root - INFO - Data Ingestion completed successfully
+[2024-05-03 16:12:19,629] 20 root - INFO - CustomException
